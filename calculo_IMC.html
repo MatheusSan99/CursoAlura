@@ -1,0 +1,18 @@
+<meta charset="UTF-8">
+<script>
+    var peso1 = 70;
+    var altura1 = 1.76;
+function pulaLinha() {
+    document.write("<br><hr><br>");
+}
+function mostra(frase) {
+    document.write(frase);
+}
+function calculoIMC(peso,altura) {
+    var imc = peso / (altura * altura);
+    mostra("o IMC é: " + Math.round(imc));
+}
+
+calculoIMC(peso1,altura1);
+
+</script>
