@@ -4,13 +4,14 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         
 
         {
             "type": "pwa-msedge",
             "request": "launch",
-            "name": "Open calculo_IMC_Novo.html",
-            "file": "c:\\Users\\Matheus San\\Desktop\\CursoAlura\\calculo_IMC_Novo.html"
+            "name": "Open jogo_De_Adivinhacao.html",
+            "file": "c:\\Users\\Matheus San\\Desktop\\CursoAlura\\jogo_De_Adivinhacao.html"
         }
     ]
 }

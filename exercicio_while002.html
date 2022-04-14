@@ -1,0 +1,18 @@
+<meta charset="UTF-8">
+<script>
+//media de idade da familia
+var count = 0;
+var somaIdade = 0;
+var totalFamiliares = parseInt(prompt("Digite a quantidade de familiares e irei calcular a média de idade da sua familia!"));
+
+while (count < totalFamiliares) {
+    var idadefamiliar = parseInt(prompt("Digite a idade do familiar!" ));
+    somaIdade = somaIdade + idadefamiliar;
+    count++;
+}
+
+var mediaIdade = somaIdade/totalFamiliares;
+
+document.write("A sua familia tem " + totalFamiliares + 
+" pessoas, e a média de idade da sua familia é: " + Math.round(mediaIdade));
+</script>
