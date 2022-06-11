@@ -26,7 +26,7 @@
  ### 🔺Este guia visa deixar registrado os meus conhecimentos adquiridos ao longo do curso.
 1. <a href="https://github.com/MatheusSan99/CursoAlura/tree/master/logica_de_programacao"> [Lógica de Programação] <a/>
 2. <a href="https://github.com/MatheusSan99/CursoAlura/tree/master/L%C3%B3gicadePrograma%C3%A7%C3%A3o2">[Lógica de Programação 2.0]<a/>
-3. <a href="https://github.com/MatheusSan99/CursoAlura/tree/master/HTML">[Site Desenvolvido (HTML & CSS)]<a/>
+3. <a href="https://github.com/MatheusSan99/Site_Calculo_IMC_Automatico">[Site Desenvolvido (HTML & CSS)]<a/>
 4. <a href='https://github.com/MatheusSan99/Decodificador_Challenge_One'> [Challenge One] <a/>
 
 
